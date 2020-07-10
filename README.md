@@ -1,6 +1,6 @@
 # Healthcare Cost and Utilization Projects
 
-Thank you for visiting my github! 
+
 
 Analytical reports and powerpoints are available upon request.
 
