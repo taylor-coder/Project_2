@@ -2,7 +2,7 @@
 
 
 
-Analytical reports and powerpoints are available upon request.
+Analytical reports/data visualizations are available upon request.
 
 Deliveries via cesarean section rank in the top 5 highest cost hospital procedures. Research ranks it as the most performed procedure at hospitals. One in three babies are born via cesarean section. Given this, I completed a project conducting analytical analysis on cesarean section risk factors and costs. 
 Some of the analytics for that project are provided. Additional details and reports are available upon request. 
