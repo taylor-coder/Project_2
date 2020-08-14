@@ -1,6 +1,6 @@
 # Data Science Projects via SAS 
 
-# Project Descriptions Below
+Assorted collection of work tasks using SAS and Tableau 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
